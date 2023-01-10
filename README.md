@@ -6,5 +6,5 @@
 ##### TRAFFIC SYSTEM (Microcontrollers-Microprocessors/Assignment)
 - This is just an assignment for a course in my school
 - We have to build a simple traffic control system by using STM32F103RBT
-##### Simple Processor (VerilogHDL-Project/Lab9)
+##### SIMPLE PROCESSOR (VerilogHDL-Project/Lab9)
 - In this project, i have to build a simple processor with can handle some basic instruction
